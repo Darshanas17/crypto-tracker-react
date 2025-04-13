@@ -1,5 +1,3 @@
-
-
 # Crypto Tracker App
 
 ## 🚀 Live Demo
@@ -16,7 +14,6 @@ The **Crypto Tracker** app allows users to track real-time prices of various cry
 ## 🛠️ Tech Stack
 - **React.js** - Frontend UI
 - **CSS** - Styling
-- **Axios** - API calls for fetching cryptocurrency data
 
 ## ⚙️ Installation & Setup
 Follow these steps to set up the project locally:
@@ -53,7 +50,6 @@ Colors used:
 - **#ffffff** (Background)
 - **#8b5cf6** (Accent)
 
-Icons and images sourced from: **CCBP Assets**
 
 ## 👨‍💻 Author
 **Darshan A S**
